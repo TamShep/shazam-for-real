@@ -1,3 +1,4 @@
+
 [![CI](https://github.com/AlekseyMartynov/shazam-for-real/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/AlekseyMartynov/shazam-for-real/actions/workflows/ci.yml)
 
 ![Screenshot](Screenshot.png?raw=true)
