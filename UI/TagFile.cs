@@ -43,8 +43,8 @@ static class TagFile {
 
             if(result.Success) {
                 Console.WriteLine(result.Url);
-                Console.WriteLine('Artist: '+result.Artist)
-                Console.WriteLine('Title: '+result.Title)
+                Console.WriteLine("Artist: " + result.Artist);
+                Console.WriteLine("Title: " + result.Title);
             } else {
                 Console.WriteLine("-");
             }
